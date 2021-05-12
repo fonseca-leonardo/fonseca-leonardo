@@ -10,7 +10,7 @@
 ## Reach Me Out
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardorfonseca/)](https://www.linkedin.com/in/leonardorfonseca/)
-[![Gmail Badge](https://img.shields.io/badge/-renataps.360@gmail.com-EA4635?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardorodriguesfonseca@gmail.com)](mailto:leonardorodriguesfonseca@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-leonardorodriguesfonseca@gmail.com-EA4635?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardorodriguesfonseca@gmail.com)](mailto:leonardorodriguesfonseca@gmail.com)
 
 ## My Skills
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonseca-leonardo&hide=stars&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&border_color=fe428e&disable_animations=false&custom_title=Leonardo's GitHub Stats" alt="Leonardo's GitHub Stats" title="Leonardo's GitHub Stats" width="440px"  /></br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonseca-leonardos&theme=dracula&border=fe428e" alt="Streak" title="Streak" width="380px" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonseca-leonardo&theme=dracula&border=fe428e" alt="Streak" title="Streak" width="380px" />
 </p>
 
 <!--
