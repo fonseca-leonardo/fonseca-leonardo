@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-Docker-090909?style=flat-square&logo=Docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-090909?style=flat-square&logo=Kubernetes&logoColor=2496ED" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/-Apache%20Kafka-090909?style=flat-square&logo=Apache%20Kafka&logoColor=2496ED" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-AWS-090909?style=flat-square&logo=Amazon%20Aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/-AWS-090909?style=flat-square&logo=Amazon%20Aws&logoColor=FF9900" alt="AWS" />
 </p>
 
 - #### Frontend
