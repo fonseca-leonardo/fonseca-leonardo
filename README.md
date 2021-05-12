@@ -41,7 +41,8 @@
 ## My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonseca-leonardo&hide=stars&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&border_color=663399&disable_animations=false&custom_title=Leonardo's GitHub Stats" alt="Leonardo's GitHub Stats" title="Leonardo's GitHub Stats" width="440px"  /></br>
+</br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonseca-leonardo&hide=stars&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&border_color=663399&disable_animations=false&custom_title=Leonardo's GitHub Stats" alt="Leonardo's GitHub Stats" title="Leonardo's GitHub Stats" width="440px" /></br></br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonseca-leonardo&theme=dracula&border=663399" alt="Streak" title="Streak" width="380px" />
 </p>
 
