@@ -31,11 +31,11 @@
 
 - #### Backend
   <p align="left">
+    <img src="https://img.shields.io/badge/-Node.js-090909?style=flat-square&logo=Node.js&logoColor=339933" alt="Node.js" />
+    <img src="https://img.shields.io/badge/-Express-090909?style=flat-square&logo=Express&logoColor=2496ED" alt="Express" />
     <img src="https://img.shields.io/badge/-MongoDB-090909?style=flat-square&logo=MongoDB&logoColor=47A248" alt="MongoDB" />
     <img src="https://img.shields.io/badge/-MySQL-090909?style=flat-square&logo=MySQL&logoColor=4479A1" alt="MySQL" />
     <img src="https://img.shields.io/badge/-PostgreSQL-090909?style=flat-square&logo=PostgreSQL&logoColor=336791" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/-Node.js-090909?style=flat-square&logo=Node.js&logoColor=339933" alt="Node.js" />
-    <img src="https://img.shields.io/badge/-Express-090909?style=flat-square&logo=Express&logoColor=2496ED" alt="Express" />
   </p>
 
 ## My GitHub Stats
