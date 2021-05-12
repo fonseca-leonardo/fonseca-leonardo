@@ -1,11 +1,7 @@
 ## About Me
 
-* Back-end Developer :computer: :iphone:
+* Full Stack Developer :computer: :iphone:
 
-
-## My Purpose
-
-***.*** :earth_americas: :blue_heart:
 
 ## Reach Me Out
 
